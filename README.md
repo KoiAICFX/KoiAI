@@ -2,6 +2,11 @@
 
 This project develops an AI agent based on the Eliza framework to provide Conflux (CFX) related information and user interaction on the X (formerly Twitter) platform.
 
+Go Chat with: https://x.com/KoiAICFX
+
+![image](https://github.com/user-attachments/assets/657510b8-45af-4ef3-8437-2d91b4cf18bf)
+
+
 ## Key Features
 
 - **CFX Price and On-Chain Data Retrieval:** Retrieves CFX price information and on-chain interaction data from dexscreen.
